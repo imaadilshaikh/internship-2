@@ -8,6 +8,10 @@ The full dashboard now includes a responsive application shell with sidebar navi
 
 The project uses local mock data in `src/data/mockData.js` and Zustand in `src/state/useTaskFlowStore.js`, so it works without a backend while keeping the data layer easy to replace with an API later.
 
+## Deployment
+
+The deployed application is available on Netlify: [https://internship-project-two.netlify.app/](https://internship-project-two.netlify.app/)
+
 ## Run locally
 
 ```bash
