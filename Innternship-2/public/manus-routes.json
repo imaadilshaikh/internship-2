@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "TaskFlow Overview" },
+    { "path": "/board", "title": "TaskFlow Kanban Board" },
+    { "path": "/insights", "title": "TaskFlow Insights" },
+    { "path": "/settings", "title": "TaskFlow Settings" }
+  ]
+}
